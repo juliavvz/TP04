@@ -85,7 +85,7 @@ Este projeto foi desenvolvido com fins acadêmicos para praticar conceitos de Pr
 
 Para visualizar a execução e os testes do projeto, acesse o vídeo:
 
-🔗 https://youtu.be/YKSvrBFO93c
+https://youtu.be/YKSvrBFO93c
 
 ## Repositório
 

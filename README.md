@@ -81,6 +81,12 @@ Este projeto foi desenvolvido com fins acadêmicos para praticar conceitos de Pr
 - **Lucas Antonio** - [rapaduragames](https://github.com/rapaduragames)
 - **Júlia Vitória** - [juliavvz](https://github.com/juliavvz)
 
+## Vídeo de Demonstração
+
+Para visualizar a execução e os testes do projeto, acesse o vídeo:
+
+🔗 https://youtu.be/YKSvrBFO93c
+
 ## Repositório
 
 Projeto disponível em: https://github.com/juliavvz/TP04
